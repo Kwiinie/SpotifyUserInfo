@@ -1,0 +1,18 @@
+# Logs
+*.log
+
+# Compiled files
+*.class
+*.dll
+*.exe
+
+
+# Dependency directories
+bin/
+obj/
+
+# Secrets
+appsettings.Development.json
+appsettings.json
+
+*.vs
