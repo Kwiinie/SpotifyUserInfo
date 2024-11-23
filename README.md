@@ -1,4 +1,4 @@
-#Main Features:
+# Main Features:
 - View user's profile
 - View top tracks/artist
 - View recently played tracks
