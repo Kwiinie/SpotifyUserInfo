@@ -1,2 +1,8 @@
-# SpotifyUserInfo
-An ASP.NET application focused on providing personalized insights into users' listening habits on Spotify.
+#Main Features:
+- View user's profile
+- View top tracks/artist
+- View recently played tracks
+- View user's playlists and saved tracks
+- Recommend tracks based on user's top items
+- Recommend artist based on user's top artist
+- Add to playlist or saved recommended tracks
