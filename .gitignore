@@ -11,8 +11,4 @@
 bin/
 obj/
 
-# Secrets
-appsettings.Development.json
-appsettings.json
-
 *.vs
